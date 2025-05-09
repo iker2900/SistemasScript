@@ -8,6 +8,7 @@ Requisitos:
 - Ubuntu con WSL (Windows Subsystem for Linux)
 - Zenity instalado: sudo apt install zenity
 - Permisos de ejecución para los scripts: chmod +x *.sh
+- Cambiar archivo de configuracion: /etc/ssmtp/ssmtp.conf
 
 Instrucciones de uso:
 1. Abre una terminal en el directorio del proyecto.
